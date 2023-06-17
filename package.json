@@ -30,7 +30,6 @@
     "mini-css-extract-plugin": "^2.7.6",
     "node-sass": "^9.0.0",
     "nodemon": "^2.0.22",
-    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "sass-loader": "^13.3.2",
     "style-loader": "^3.3.0",
     "webpack": "^5.87.0",
