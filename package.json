@@ -1,7 +1,7 @@
 {
   "name": "dejain4-portfolio",
   "version": "1.0.0",
-  "description": "Hello, it's me Deepika Jain, it's my portfolio",
+  "description": "Hello, it's me Deepika, it's my portfolio",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
@@ -15,7 +15,7 @@
     "portfolio",
     "portfolio-website"
   ],
-  "author": "Deepika Jain",
+  "author": "Deepika",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/dejain4/dejain4-portfolio/issues"
