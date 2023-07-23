@@ -1,3 +1,5 @@
 # dejain4-portfolio
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
 
 Welcome to my portfolio! I am a skilled Cloud DevOps engineer with seven years of experience. My expertise lies in designing, implementing, and managing cloud-based infrastructure and applications. I have hands-on experience working with leading cloud platforms like Amazon Web Services (AWS) and Microsoft Azure. Additionally, I specialize in deploying and maintaining application software using automation tools like Terraform, Ansible, and Jenkins. Explore my projects to see how I bring efficiency and scalability to cloud-based solutions.
